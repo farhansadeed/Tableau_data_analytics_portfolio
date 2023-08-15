@@ -1,2 +1,2 @@
-# Tableau_data_analytics_portfolio
+# Tableau Data Analytics Portfolio
 This is a Tableau project for showcasing my skills and learnings of Tableau for data analysis
